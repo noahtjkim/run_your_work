@@ -8,10 +8,10 @@ Used Python libraries: pyautogui, pynput
 pyautogui is for moving a mouse cursor
 pynput is for receiving keyboard strokes
 
-Three key functions here
-s: start
-p: pause
-q: quit
+Three key functions here \n
+s: start \n
+p: pause \n
+q: quit \n
 
 Once you run the script of this program
 Your mouse cursor starts moving to random places in your monitor
