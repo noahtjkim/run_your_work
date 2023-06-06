@@ -9,9 +9,9 @@ pyautogui is for moving a mouse cursor
 pynput is for receiving keyboard strokes
 <br>
 Three key functions here <br>
-s: start <br>
-p: pause <br>
-q: quit <br>
+* s: start <br>
+* p: pause <br>
+* q: quit <br>
 <br>
 Once you run the script of this program <br>
 Your mouse cursor starts moving to random places in your monitor <br>
