@@ -1,4 +1,4 @@
-# Run Your Work
+# Be active status
 
 This code keeps your mouse curosr keep moving when you do nothing at work.
 Good for people who remotely work
